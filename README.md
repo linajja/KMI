@@ -19,6 +19,7 @@ Design: [KMI skaičiuoklė]
 -   Github pages
 -   FontAwesome icons
 -   CSS flex
+-   JS
 
 ## Authors
 
